@@ -1,0 +1,9 @@
+道路データ
+(
+	データベース名
+	osm_road_db
+	テーブル名
+	osm_japan_car_2po_4pgr
+)
+から
+トポロジを作成
