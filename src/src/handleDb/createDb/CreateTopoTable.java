@@ -18,7 +18,7 @@ public class CreateTopoTable extends HandleDbTemplateSuper{
 	private static final String TOPO_NAME = "topo_tb";	
 	private static final String USER = "postgres";			// user name for DB.
 	private static final String PASS = "usadasql";		// password for DB.
-	private static final String URL = "rain2.elcom.nitech.ac.jp";
+	private static final String URL = "各自の環境に合わせてDBの設定してください";//"rain2.elcom.nitech.ac.jp";
 	private static final int PORT = 5432;
 	private static final String DBURL = "jdbc:postgresql://"+URL+":"+PORT+"/" + DBNAME;
 	
